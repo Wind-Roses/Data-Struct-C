@@ -1,0 +1,6 @@
+﻿  test.c
+f:\vs2015\循环队列\循环队列\test.c(6): warning C4101: “cq”: 未引用的局部变量
+  CircleQueue.c
+  正在生成代码...
+  循环队列.vcxproj -> F:\vs2015\循环队列\Debug\循环队列.exe
+  循环队列.vcxproj -> F:\vs2015\循环队列\Debug\循环队列.pdb (Partial PDB)
