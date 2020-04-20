@@ -1,0 +1,11 @@
+﻿  翻转二叉树.c
+  找子树.c
+  判断单值二叉树.c
+  判断二叉树是否是对称的.c
+  判断两二叉树是否相同.c
+  二叉树深度.c
+f:\vs2015\二叉树练习\二叉树练习\二叉树深度.c(14): warning C4013: “maxDepth”未定义；假设外部返回 int
+  正在生成代码...
+找子树.obj : error LNK2005: isSameTree 已经在 判断两二叉树是否相同.obj 中定义
+翻转二叉树.obj : error LNK2005: Process 已经在 判断二叉树是否是对称的.obj 中定义
+LINK : fatal error LNK1561: 必须定义入口点
